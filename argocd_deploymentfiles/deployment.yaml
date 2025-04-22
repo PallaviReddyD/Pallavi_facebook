@@ -27,7 +27,7 @@ spec:
    spec:
      containers:
        - name: fbcont1
-         image: pallavi033/pallavi-docker-repo:fbpage
+         image: pallavi033/pallavi-docker-repo:flaskapp
          ports:
            - containerPort: 8080
     
